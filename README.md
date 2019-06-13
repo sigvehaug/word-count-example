@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Word count example
@@ -14,3 +15,7 @@ law](https://en.wikipedia.org/wiki/Zipf%27s_law) on the two most common words.
 We use this example in two [CodeRefinery](https://coderefinery.org/) lessons:
 - https://coderefinery.github.io/reproducible-research/
 - https://coderefinery.github.io/documentation/
+=======
+# word-count-example
+For documentation training
+>>>>>>> ae5d65671bdfd5dbaa4fce0244d148bf621736c6
